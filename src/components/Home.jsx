@@ -7,9 +7,10 @@ export default function Home() {
             <h1>Home Component</h1>
             <div className="card-container">
                 <Card name={"Abhishek"} caption={"My name is Abhishek Soni. I am from SRMIST."} />
-                <Card name={"Niladri"} />
-                <Card name={"prabhjeet"} />
-                <Card name={"Nabeel"} />
+                <Card name={"Aditya"} />
+                <Card name={"Ishani"} />
+                <Card name={"Vishnu"} />
+                <Card name={"Hritik"} />
             </div>
         </div>
     )
