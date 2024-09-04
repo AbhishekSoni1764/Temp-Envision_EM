@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    background-color: aqua;
+    font-weight: 700;
+    color: black;
+    padding: 2rem;
+    gap: 1rem;
+}
+
+.card-container{
+    border: 2px solid black;
+    color: black;
+    background-color: bisque;
+    padding: 2rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.card {
+    border: 2px solid black;
+    padding: 2rem;
+    background-color: chartreuse;
+}
